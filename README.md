@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @txzsas
-- 👀 I’m interested in  colaborar en  transformación digital y crecimiento,  como también en conocimientos de pruebas de software
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in digital transformation and growth, as well on software testing
+- 🌱 I’m currently learning agile for enterprise
+- 💞️ I’m looking to collaborate on digital transformation
+- 📫 How to reach me mail me carlos@txz.com.co or whatsapp me on +573167415198
 
 <!---
 txzsas/txzsas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
