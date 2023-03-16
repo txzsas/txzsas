@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @txzsas
-- 👀 I’m interested in  colaborar en  transformación digital y crecimiento,  como también en conocimientos de pruebas de software
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Carlos Gomez
+- 👀 I’m interested in business growth and product ownership
+- 🌱 I’m currently learning SAFe / agile coach
+- 💞️ I’m looking to collaborate on Business & IT Dev.
 - 📫 How to reach me ...
 
 <!---
